@@ -6,7 +6,6 @@ print(os.getcwd())
 
 #os.chdir("C:\\Users\\ASUS\\Desktop\\Evening class")# To avoid (unicode error)  change single '\' to '\\
 
-
 os.chdir(r"C:\Users\ASUS\Desktop\Evening class")# To avoid (unicode error) use "r" rastring 
 
 #os.mkdir('FirstClass')
