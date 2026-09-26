@@ -4,7 +4,6 @@ print(os.getcwd())
 
 #os.chdir("C:\Users\ASUS\Desktop\Evening class")# To avoid (unicode error) use "r" rastring or chnge single '\' to '\\'
 
-
 #os.chdir("C:\\Users\\ASUS\\Desktop\\Evening class")# To avoid (unicode error)  change single '\' to '\\
 
 
